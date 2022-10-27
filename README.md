@@ -1,9 +1,8 @@
-# MMBERT
+# FGCVQA
 
-## MMBERT: Multimodal BERT Pretraining for Improved Medical VQA
-Yash Khare*, Viraj Bagal*, Minesh Mathew, Adithi Devi, U Deva Priyakumar, CV Jawahar
+## FGCVQA: Fine-grained cross-attention for Medical VQA
 
-![alt text](https://github.com/VirajBagal/MMBERT/blob/main/qualitative.png?raw=true)
+
 
 The application of Visual Question Answering (VQA) in the medical field has sgnificantly impacted the traditional medical research methods.
 A mature medical visual question answering system can greatly help the patients diagnose. The  Visual Question Answering Model in the generic
